@@ -1,0 +1,47 @@
+Clase 1 - 08 de Agosto
+
+Definiciones de programación: programación, variable, constante
+
+Metodología para la construcción de un programa:
+- Analisis
+- Diseño
+- Codificación
+- Prueba y Evaluación
+Esto es cíclico si corresponde
+
+
+Análisis: tiene como finalidad conocer y comprender el problema. En esta etapa se define cuales son los datos que requiere el programa, qué debe hacer y cuales son los resultados que debe arrojar
+
+Durante la clase se utilizará principalmente como entrada los archivos CSV, y como salidas también CSV y gráficos.
+
+Diseño: Consiste en determinar un pseudocódigo o forma específica de cómo se va a resolver un problema
+
+Codificación: representa entre un 25% y un 30% del tiempo de desarrollo. Consiste en escribir el código para el programa. El tiempo se consume por diseño y pruebas, que deben ser exhaustivas.
+
+
+
+Tipos de instrucciones:
+1. Instrucciones de E/S
+--TODO: Falta algo aquí
+2. Instucciones de Control
+3. Instrucciones de reiteración
+
+
+Prueba y evaluación:
+Las pruebas deben ser realizadas en secuencia con la modificación, sin dejar espacios de tiempo amplios desde que se terminó el desarrollo.
+Se debe realizar una preparación para pruebas, elaborando casos de pruebas.
+
+
+Vectores:
+Se asemejan a las listas de python
+En el lenguaje R el índice de un vector empieza en 0
+
+Para la asignación usaremos <-, tener en cuenta porque el profesor podría evaluar esto
+
+Valor NA: no definido
+
+
+
+
+
+
